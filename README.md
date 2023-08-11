@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">A passionate full stack developer from India</p>
+<p align="left">A passionate full stack developer from India. I enjoy learning new things and developing myself. All of my projects are available at [https://aj-portfolio-topaz.vercel.app](https://aj-portfolio-topaz.vercel.app)</p>
 
 ###
 
