@@ -34,7 +34,7 @@
 
 <p align="left">A passionate full stack developer from India. I enjoy learning new things and developing myself. 
  </p>
- <p align="left"> All of my projects are available at [https://aj-portfolio-topaz.vercel.app](https://aj-portfolio-topaz.vercel.app)</p>
+ <p align="left"> All of my projects are available at <a href="https://aj-portfolio-topaz.vercel.app">https://aj-portfolio-topaz.vercel.app</a></p>
 
 ###
 
