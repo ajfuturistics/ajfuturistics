@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://avatars.githubusercontent.com/ajfuturistics"  />
+  <img height="150" style="border-radius:50%" src="https://avatars.githubusercontent.com/ajfuturistics" />
 </div>
 
 ###
